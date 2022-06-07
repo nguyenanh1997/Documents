@@ -1,0 +1,12 @@
+POST http://myclip.vn/api_v2.php/v2/account/follow-channel?identity=vbox86p-13e558545474f84e&test=FUZZ HTTP/1.1
+Authorization: Bearer NBtgEi8VeKYTepvGgm8DAAUK6+dmz/7YCyBVFdq1TOAnyN8RckhVOAlpQpgOKqmCcJLOjdrBbUfdWFSIWNEA0s684Q5B64MNEPuWmxDBALr1sOKQi604OvCyXF7M3di3n+DkhZiUdbglR8alm5a3h9sVpt3dZI5/aGaQpjlR7eytsctIfZYE4gNfaoY2EawR8iWSMMIndXSyLz6yCEyJ+ZCoEdpuCvkmWk3yQ088btwniuZnY5FVbqxPGrCMB+PXDnK2NcIBDC1jU1+aBsfjw6lBshDxAjZ0cCldA2gqdrcppymhBRVLJtWzK1b8IyKU87QLTVO7poA1zhIIIkD2bQ==
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 41
+Host: myclip.vn
+Test: %s
+Connection: close
+Accept-Encoding: gzip, deflate
+User-Agent: okhttp/4.2.1
+
+id=139109061&status=1&notification_type=1
