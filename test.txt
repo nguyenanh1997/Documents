@@ -1,11 +1,11 @@
-POST http://myclip.vn/api_v2.php/v2/account/follow-channel?identity=vbox86p-13e558545474f84e HTTP/1.1
-Authorization: Bearer s69Cq4722aWGrSfzMpbGztBNK54PykWHhq3HvYTLET/Apl2sYa3QWFhpMtoaKWnakHN0PgE/mIhNTHqaBQtE2taBvGUvm4DRYYDyTDADPfQLS291WmVlDuAEBhUs4gqH+YMC0oYYBgKCLiMCjTc1vowFj37k0KAjnp9Rnc9i5Uge8U2FNdU6GRRRjOhaoPwZdspXbmrdUAlKWd2ihaMAXS6z7c+q2AKk2czY46qMJDQ1E0OpUtrcdwjqt/pA5V4+6mUyYsViEL/BxYuAEPF1uRbqNZ66TGgXhp+Dzg6xMbsfNrGxC4TufvqeCpAE5hBcWSlnzXpAKdnNODOgMNsqcQ==
+POST http://myclip.vn/api_v2.php/v2/auth/authorize?identity=vbox86p-13e558545474f84e HTTP/1.1
+Authorization: Bearer 6f3039df-5e93-40f7-a23d-32b717b0b79b
 Accept: application/json
 Content-Type: application/x-www-form-urlencoded
-Content-Length: 40
+Content-Length: 58
 Host: myclip.vn
 Connection: close
 Accept-Encoding: gzip, deflate
 User-Agent: okhttp/4.2.1
 
-id=12720814&status=1&notification_type=0
+grant_type=login&username=0862684604&password=Caibua%21997
